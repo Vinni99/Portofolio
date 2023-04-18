@@ -1,8 +1,7 @@
 {
   "name": "portfolio",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Vinni99/Portofolio",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.40",
     "@fortawesome/free-brands-svg-icons": "^5.15.4",
@@ -24,8 +23,6 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
