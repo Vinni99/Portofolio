@@ -2,6 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://vinni99.github.io/Portofolio/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.40",
     "@fortawesome/free-brands-svg-icons": "^5.15.4",
