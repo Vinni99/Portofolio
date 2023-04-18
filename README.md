@@ -42,12 +42,10 @@ If you have any questions, please contact me at  - Vinícius Teixeira | [Vinni99
 ## Links
 
 * [GitHub Repository](https://github.com/Vinni99/Portofolio.git)
-* [Heroku Deployed Application]()
+* [Portfolio Deployed Application](https://vinni99.github.io/Portofolio/)
 
 ## Screenshots
 
-![Alt text](portofolio/src/components/screenshot/Screenshot1.png)
+![Alt text](src/components/screenshot/Screenshot1.png)
 
-![Alt text](portofolio/src/components/screenshot/Screenshot2.png)
-
-test
+![Alt text](src/components/screenshot/Screenshot2.png)
