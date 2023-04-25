@@ -30,12 +30,12 @@ function Portfolio() {
                         <Card>
                             <Card.Img variant="top" src={Image1} />
                             <Card.Body>
-                                <Card.Title style={styles.text}>Project 1</Card.Title>
+                                <Card.Title style={styles.text}>Ocean Pulse</Card.Title>
                                 <Card.Text>
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.
+                                - Ocean Pulse is a web application that allows users to search for a beach and get the current weather and surf conditions.
                                 </Card.Text>
-                                <Button variant="primary" href="https://github.com/Vinni99">View</Button>
-                                <Button variant="primary" href="https://github.com/Vinni99">Github</Button>
+                                <Button variant="primary" href="https://young-temple-90764.herokuapp.com">View</Button>
+                                <Button variant="primary" href="https://github.com/AltB22/Ocean_Pulse">Github</Button>
                             </Card.Body>
                         </Card>
                     </Col>
