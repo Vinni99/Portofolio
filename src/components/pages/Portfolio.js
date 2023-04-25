@@ -32,7 +32,7 @@ function Portfolio() {
                             <Card.Body>
                                 <Card.Title style={styles.text}>- Ocean Pulse</Card.Title>
                                 <Card.Text>
-                                - Ocean Pulse is a web application that allows users to search for a beach and get the current weather and surf conditions.
+                                    - Ocean Pulse is a web application that allows users to search for a beach and get the current weather and surf conditions.
                                 </Card.Text>
                                 <Button variant="primary" href="https://young-temple-90764.herokuapp.com">View</Button>
                                 <Button variant="primary" href="https://github.com/AltB22/Ocean_Pulse">Github</Button>
