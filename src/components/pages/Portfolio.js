@@ -30,7 +30,7 @@ function Portfolio() {
                         <Card>
                             <Card.Img variant="top" src={Image1} />
                             <Card.Body>
-                                <Card.Title style={styles.text}>Ocean Pulse</Card.Title>
+                                <Card.Title style={styles.text}>- Ocean Pulse</Card.Title>
                                 <Card.Text>
                                 - Ocean Pulse is a web application that allows users to search for a beach and get the current weather and surf conditions.
                                 </Card.Text>
